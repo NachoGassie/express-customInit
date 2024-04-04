@@ -1,4 +1,4 @@
-### Custom Express Initialization with TypeScript
+# Custom Express Initialization with TypeScript
 
 This repository provides a customized setup for working with ExpressJS using TypeScript. It follows a structured path: `index.ts` -> `app.ts` -> `router` -> `controller` -> `service` -> `database manager`  (optional).
 
